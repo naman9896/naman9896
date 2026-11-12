@@ -37,7 +37,7 @@ building
 | **[sai-motor-checkin](https://github.com/naman9896/sai-motor-checkin)** | iPad kiosk check-in with digital signature + real-time owner dashboard | Live at a working car workshop, replaced the paper intake form. Now being rolled out to a second business |
 | **[sai-ims](https://github.com/naman9896/sai-ims)** | Inventory management system for a car servicing business, built from PRD → TRD → architecture → schema | Built from scratch for a client with no existing software |
 | **Job Application Tracker** | Full-stack SaaS to track applications, stages and follow-ups | Node.js/TypeScript API, React, PostgreSQL, deployed on Vercel + Neon |
-| **[SecureGen](https://github.com/naman9896/SecureGen)** | _One-line description here_ | _Result or feature worth noting_ |
+| **[SecureGen](https://github.com/naman9896/SecureGen)** | A cryptographically secure password and API key generator that runs in your browser, with optional end-to-end encrypted history sync. | React 19, Vite 8, Tailwind CSS v4 (@tailwindcss/vite), Lucide React, qrcode.react, Web Crypto API (built-in), Auth & sync	Supabase |
 | **Vehicle History & Fuel Tracker** | Cross-platform app for service history and fuel use | .NET MAUI |
 | **City of Sydney Car Share Analysis** | Bay utilisation analysis across 50,000+ records | Power BI · SQL |
 
