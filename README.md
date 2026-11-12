@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Naman 👋</h1>
 
 <p align="center">
-  <i>Full-stack developer building practical software for Aussie small businesses.</i><br>
+  <i>Full-stack developer building practical software for businesses.</i><br>
   <i>I take businesses from paper forms and phone bookings to systems they actually run on.</i>
 </p>
 
