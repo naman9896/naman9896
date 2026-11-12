@@ -17,12 +17,12 @@
 
 ```
 building
-├─ Simple.work @ Tinyloop
-│   └─ a leaner, cheaper Harvest: time tracking for teams and their clients
+├─ Time Tracking Product
+│   └─ a leaner, cheaper time tracking for teams and their clients
 │   └─ Next.js · TypeScript · Supabase · Vercel
 ├─ Torvio
 │   └─ booking + workshop platform for car service shops
-│   └─ first customer: Sai Motor Works (Rutherford, NSW)
+│   └─ Users can directly integrate into their websites
 └─ Fuelcheap
     └─ NSW fuel price comparison that shows what you really pay
     └─ loyalty-adjusted prices · detour break-even · price freshness score
